@@ -1,0 +1,23 @@
+<svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2b5e"/>
+      <stop offset="100%" stop-color="#2d4a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="500" fill="url(#bg)"/>
+  <rect x="40" y="40" width="36" height="36" fill="#e31e26" opacity="0.18"/>
+  <rect x="86" y="40" width="36" height="36" fill="#e31e26" opacity="0.18"/>
+  <rect x="40" y="86" width="36" height="36" fill="#e31e26" opacity="0.18"/>
+  <rect x="86" y="86" width="36" height="36" fill="#e31e26" opacity="0.18"/>
+  <rect x="494" y="424" width="32" height="32" fill="#ffffff" opacity="0.12"/>
+  <rect x="534" y="424" width="32" height="32" fill="#ffffff" opacity="0.12"/>
+  <rect x="494" y="464" width="32" height="32" fill="#ffffff" opacity="0.06"/>
+  <rect x="534" y="464" width="32" height="32" fill="#ffffff" opacity="0.06"/>
+  <rect x="220" y="150" width="160" height="160" fill="#e31e26" rx="14"/>
+  <g transform="translate(252,182)" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 30 L16 22 C16 18 20 14 24 14 L72 14 C76 14 80 18 80 22 L80 30 M8 30 L88 30 L88 84 L8 84 Z M40 30 L40 22 L56 22 L56 30 M30 50 L30 70 M48 50 L48 70 M66 50 L66 70" stroke="#ffffff" stroke-width="6" fill="none"/>
+  </g>
+  <text x="300" y="370" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Local Crew, Trusted Hands</text>
+  <text x="300" y="402" text-anchor="middle" fill="rgba(255,255,255,0.78)" font-family="-apple-system, 'Helvetica Neue', sans-serif" font-size="17">OT-informed design, fully insured, guaranteed work</text>
+</svg>

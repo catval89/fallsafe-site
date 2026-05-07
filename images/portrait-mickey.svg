@@ -1,0 +1,18 @@
+<svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2b5e"/>
+      <stop offset="100%" stop-color="#0f1c42"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="500" fill="url(#bg)"/>
+  <rect x="40" y="40" width="36" height="36" fill="#e31e26" opacity="0.20"/>
+  <rect x="86" y="40" width="36" height="36" fill="#e31e26" opacity="0.20"/>
+  <rect x="40" y="86" width="36" height="36" fill="#e31e26" opacity="0.20"/>
+  <rect x="86" y="86" width="36" height="36" fill="#e31e26" opacity="0.20"/>
+  <circle cx="300" cy="200" r="80" fill="#e31e26"/>
+  <circle cx="300" cy="178" r="32" fill="#ffffff"/>
+  <path d="M252 230 C252 210 270 196 300 196 C330 196 348 210 348 230 L348 240 L252 240 Z" fill="#ffffff"/>
+  <text x="300" y="340" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">Mickey Dollens</text>
+  <text x="300" y="378" text-anchor="middle" fill="rgba(255,255,255,0.78)" font-family="-apple-system, 'Helvetica Neue', sans-serif" font-size="18" letter-spacing="2">FOUNDER</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg viewBox="0 0 600 380" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1c42"/>
+      <stop offset="100%" stop-color="#2d4a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" fill="url(#bg)"/>
+  <rect x="30" y="30" width="28" height="28" fill="#e31e26" opacity="0.20"/>
+  <rect x="68" y="30" width="28" height="28" fill="#e31e26" opacity="0.20"/>
+  <rect x="30" y="68" width="28" height="28" fill="#e31e26" opacity="0.20"/>
+  <rect x="68" y="68" width="28" height="28" fill="#e31e26" opacity="0.20"/>
+  <rect x="240" y="100" width="120" height="120" fill="#e31e26" rx="12"/>
+  <g transform="translate(264,124)" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6" y="56" width="60" height="6" rx="2" fill="#ffffff"/><circle cx="10" cy="59" r="5" fill="#ffffff"/><circle cx="62" cy="59" r="5" fill="#ffffff"/><path d="M36 6 L36 26 L24 38 M36 26 L48 38 M22 42 L24 46 M30 46 L32 50 M40 46 L42 50 M50 42 L48 46" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="270" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">Bathroom Safety</text>
+</svg>
