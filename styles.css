@@ -443,16 +443,6 @@ section.tight { padding: 60px 0; }
   margin-top: 3px;
 }
 
-/* ========== TRIBAL PARTNERSHIP ========== */
-.tribal {
-  background: linear-gradient(135deg, var(--navy) 0%, var(--navy-dark) 100%);
-  color: #fff;
-}
-.tribal h2 { color: #fff; }
-.tribal p { color: #d8dde2; }
-.tribal .feature-list li { color: #fff; }
-.tribal .feature-list svg { color: var(--red-light); }
-
 /* ========== SUBSCRIPTION ========== */
 .subscription {
   background: var(--sand);
