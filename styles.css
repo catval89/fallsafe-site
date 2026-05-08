@@ -833,27 +833,7 @@ section.tight { padding: 60px 0; }
   }
   .main-nav.open { display: flex; }
   .nav-toggle { display: block; }
-  .header-phone {
-    display: grid;
-    place-items: center;
-    box-sizing: border-box;
-    width: 44px;
-    height: 44px;
-    min-width: 44px;
-    min-height: 44px;
-    max-width: 44px;
-    max-height: 44px;
-    flex: 0 0 44px;
-    aspect-ratio: 1 / 1;
-    padding: 0;
-    gap: 0;
-    font-size: 0;
-    line-height: 0;
-    border-radius: 50%;
-    overflow: hidden;
-  }
-  .header-phone > * { grid-column: 1; grid-row: 1; }
-  .header-phone svg { width: 22px; height: 22px; }
+  .header-phone { display: none; }
   .services-grid { grid-template-columns: 1fr; }
   .form-row { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr; }
