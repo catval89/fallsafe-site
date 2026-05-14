@@ -790,12 +790,26 @@ section.tight { padding: 60px 0; }
 .cost-table tbody tr.facility td:first-child { font-weight: 600; color: var(--red-dark); }
 .cost-table tbody tr.facility td:last-child { color: var(--red-dark); }
 
+.cost-table-callout {
+  text-align: center;
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  font-size: 1.05rem;
+  color: var(--navy);
+  margin: 24px auto 8px;
+  max-width: 720px;
+}
+
 .cost-table-note {
   text-align: center;
   font-family: "Source Sans 3", system-ui, sans-serif;
   font-size: 0.85rem;
   color: var(--ink-soft);
-  margin-top: 18px;
+  margin-top: 8px;
+}
+
+.sub-grid--single {
+  grid-template-columns: minmax(0, 520px);
+  justify-content: center;
 }
 
 /* ========== RESPONSIVE ========== */
