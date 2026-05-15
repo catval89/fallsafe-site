@@ -279,6 +279,32 @@ img { max-width: 100%; display: block; }
 .hero-badge strong { display: block; font-size: 1.5rem; color: var(--navy); }
 .hero-badge span { font-size: 0.85rem; color: var(--ink-soft); }
 
+.hero-figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.hero-caption {
+  background: var(--cream);
+  padding: 18px 24px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  text-align: center;
+  border: 1px solid var(--line);
+}
+.hero-caption strong {
+  display: block;
+  font-size: 1.5rem;
+  color: var(--navy);
+  font-family: "Source Serif 4", serif;
+}
+.hero-caption span {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
 /* ========== TRUST BAR ========== */
 .trust-bar {
   background: var(--navy);
